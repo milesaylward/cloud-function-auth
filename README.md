@@ -76,7 +76,7 @@ For an example of using these cloud based functions in a live project see my rep
 
 ## Authors
 
-* **Miles Aylward** - *Initial work* - [PurpleBooth](https://github.com/milesaylward)
+* **Miles Aylward** - *Initial work* - [Miles Aylward](https://github.com/milesaylward)
 
 ## License
 
