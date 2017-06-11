@@ -62,7 +62,7 @@ If it succeeds you should see the image below saying success and recieve a 6 dig
 You may test the signup feature the exact same way and the verify otp
 by passing in the phone and the code you received into the json form on postman.
 
-[postman test](images/github.png "Postman Test")
+![postman test](images/github.png "Postman Test")
 
 ## Deployment
 
