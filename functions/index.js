@@ -7,7 +7,7 @@ const verifyOTP = require('./verifyOTP');
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://auth-otp.firebaseio.com"
+  databaseURL: "YOUR-DATABASE-URL"
 });
 
 exports.createUser = functions.https.onRequest(createUser);
