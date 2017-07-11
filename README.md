@@ -62,8 +62,8 @@ by passing in the phone and the code you received into the json form on postman.
 
 ## Built With
 
-* [Firebase](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Twilio](https://maven.apache.org/) - Dependency Management
+* [Firebase](http://www.dropwizard.io/1.0.2/docs/) - Handling cloud based js functions
+* [Twilio](https://maven.apache.org/) - Sending text messages to recieved phone number
 
 ## Authors
 
