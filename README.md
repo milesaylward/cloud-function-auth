@@ -60,11 +60,6 @@ by passing in the phone and the code you received into the json form on postman.
 
 ![postman test](images/github.png "Postman Test")
 
-## Deployment
-
-For an example of using these cloud based functions in a live project see my repo where I add these to a react native project.
-* [React Native Implementation](https://github.com/milesaylward/firebase-otp-auth)
-
 ## Built With
 
 * [Firebase](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
