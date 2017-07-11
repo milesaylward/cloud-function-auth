@@ -14,10 +14,6 @@ you will need firebase CLI tools, and a project Id from your firebase account. T
 personal Twilio and firebase base info named, ServiceAccount.json, and twilio.js. Also in the OTPRequest.js file you will need
 to add your twilio created phone number in accordingly.
 
-```
-Give examples
-```
-
 ### Installing
 
 install firebase tools
